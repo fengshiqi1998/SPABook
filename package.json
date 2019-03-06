@@ -1,0 +1,22 @@
+{
+  "name": "spabook",
+  "version": "1.0.0",
+  "description": "SPAcourse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengshiqi1998/SPABook.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengshiqi1998/SPABook/issues"
+  },
+  "homepage": "https://github.com/fengshiqi1998/SPABook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
